@@ -69,7 +69,7 @@ private:
 
     /*gets size*/
     public: int getSize() {
-        //if the buffer is full the size if just the size of the buffer
+        //if the buffer is full then size is just the size of the buffer
         if(full) {
             return size;
             //otherwise if head is ahead of the tail we just have head - tail
