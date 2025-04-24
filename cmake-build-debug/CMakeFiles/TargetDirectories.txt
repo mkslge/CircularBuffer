@@ -1,0 +1,3 @@
+/Users/markseeliger/CLionProjects/circularBuffer/cmake-build-debug/CMakeFiles/circularBuffer.dir
+/Users/markseeliger/CLionProjects/circularBuffer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/markseeliger/CLionProjects/circularBuffer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

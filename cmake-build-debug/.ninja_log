@@ -1,0 +1,16 @@
+# ninja log v5
+1	211	1745456111318789216	CMakeFiles/circularBuffer.dir/buffer.cpp.o	48d5f76f0bc1e5d8
+1	317	1745456111425514263	CMakeFiles/circularBuffer.dir/main.cpp.o	d5de4f40c096a8ac
+318	366	1745456111475517477	circularBuffer	a59d1ee63613783f
+2	199	1745456194291493081	CMakeFiles/circularBuffer.dir/buffer.cpp.o	48d5f76f0bc1e5d8
+2	303	1745456194394579839	CMakeFiles/circularBuffer.dir/main.cpp.o	d5de4f40c096a8ac
+303	337	1745456194430872396	circularBuffer	a59d1ee63613783f
+2	201	1745456235564920106	CMakeFiles/circularBuffer.dir/buffer.cpp.o	48d5f76f0bc1e5d8
+2	302	1745456235665256700	CMakeFiles/circularBuffer.dir/main.cpp.o	d5de4f40c096a8ac
+302	338	1745456235703267755	circularBuffer	a59d1ee63613783f
+3	198	1745456260659723196	CMakeFiles/circularBuffer.dir/buffer.cpp.o	48d5f76f0bc1e5d8
+2	204	1745456314738612787	CMakeFiles/circularBuffer.dir/buffer.cpp.o	48d5f76f0bc1e5d8
+2	315	1745456314848709248	CMakeFiles/circularBuffer.dir/main.cpp.o	d5de4f40c096a8ac
+315	348	1745456314883967180	circularBuffer	a59d1ee63613783f
+2	308	1745456328555679529	CMakeFiles/circularBuffer.dir/main.cpp.o	d5de4f40c096a8ac
+308	343	1745456328592684627	circularBuffer	a59d1ee63613783f
