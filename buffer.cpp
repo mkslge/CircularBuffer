@@ -60,7 +60,7 @@ private:
 
         //increment tail pointer (goes back around with modulo)
         tail = (tail + 1) % size;
-
+        return true;
     }
     /*its empty if head and tail are the same AND we didnt indicate full from are boolean*/
     public: bool isEmpty() {
@@ -82,6 +82,29 @@ private:
 
 
     }
+
+    /*If the buffer is not empty then we empty then we return the head otherwise throw an exception
+     * */
+    public: T getHead() {
+        if(isEmpty()) {
+            throw runtime_error("Empty Buffer");
+        }
+        if(head == 0) {
+            return vector[size - 1];
+        }
+        return vector[head - 1];
+    }
+
+    /*
+     * Returns tail if the buffer is not empty
+     */
+    T getTail() {
+        if(isEmpty()) {
+            throw runtime_error("Empty Buffer, No Tail");
+        }
+        return vector[tail];
+    }
+
 
 
 
